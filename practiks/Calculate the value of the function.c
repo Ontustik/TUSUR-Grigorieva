@@ -19,7 +19,8 @@ int f(int x)
 
 int main()
 {
-	printf("%d\n", f(-5));
-	printf("%d\n", f(5));
-	printf("%d\n", f(0));
+	for (int x = -5; x <=5; x++)
+	{
+		printf("%5d \t-> %5d\n", x, f(x));
+	}
 }
