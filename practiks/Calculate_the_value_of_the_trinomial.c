@@ -14,6 +14,7 @@ int main()
 		b = 0,
 		c = 0,
 		x = 1;
+	
 	printf("A B C X\n");
 	scanf("%d%d%d%d", &a, &b, &c, &x);
 	printf("\n%d", y(a, b, c, x));
