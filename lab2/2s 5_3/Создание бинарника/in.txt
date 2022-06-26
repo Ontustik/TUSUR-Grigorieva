@@ -1,0 +1,16 @@
+Gloria Jones
+Supply 
+Technologist
+200000
+Brandon Graves
+Sales 
+inspector
+180000
+Raymond Pierce
+Supply 
+Technologist
+230000
+Mary White
+Sales 
+Supervisor
+250000
